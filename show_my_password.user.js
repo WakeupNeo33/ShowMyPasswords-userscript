@@ -5,8 +5,10 @@
 // @description     Show/Hide the contents of password fields by clicking on the eye icon or with hotkey
 // @author          Elwyn
 // @license         MIT License
-// @downloadURL     https://raw.github.com/WakeupNeo33/ShowMyPasswords-userscript/master/show_my_password.user.js
-// @updateURL       https://raw.github.com/WakeupNeo33/ShowMyPasswords-userscript/show_my_password.user.js
+// @homepage        https://github.com/WakeupNeo33/ShowMyPasswords-userscript
+// @supportURL      https://greasyfork.org/scripts/32049-show-my-passwords/feedback
+// @downloadURL     https://github.com/WakeupNeo33/ShowMyPasswords-userscript/raw/main/show_my_password.user.js
+// @updateURL       https://github.com/WakeupNeo33/ShowMyPasswords-userscript/raw/main/show_my_password.user.js
 // @name:es         Ver Mis Contraseñas
 // @description:es  Muestra/Ocultar el contenido de los campos de contraseña haciendo clic en el icono o con conbinacion de teclas
 // @include         http://*
