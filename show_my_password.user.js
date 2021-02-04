@@ -9,6 +9,7 @@
 // @supportURL      https://greasyfork.org/scripts/32049-show-my-passwords/feedback
 // @downloadURL     https://github.com/WakeupNeo33/ShowMyPasswords-userscript/raw/main/show_my_password.user.js
 // @updateURL       https://github.com/WakeupNeo33/ShowMyPasswords-userscript/raw/main/show_my_password.user.js
+// @iconURL         https://github.com/WakeupNeo33/ShowMyPasswords-userscript/raw/main/icon.png
 // @name:es         Ver Mis Contraseñas
 // @description:es  Muestra/Ocultar el contenido de los campos de contraseña haciendo clic en el icono o con conbinacion de teclas
 // @include         http://*
