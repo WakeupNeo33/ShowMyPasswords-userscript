@@ -3,7 +3,7 @@
 // @namespace       ShowMyPasswords
 // @version         1.3
 // @description     Show/Hide the contents of password fields by clicking on the eye icon or with hotkey
-// @author          Elwyn
+// @author          Elwyn  (wakeupneo33@gmail.com)
 // @license         MIT License
 // @homepage        https://github.com/WakeupNeo33/ShowMyPasswords-userscript
 // @supportURL      https://greasyfork.org/scripts/32049-show-my-passwords/feedback
